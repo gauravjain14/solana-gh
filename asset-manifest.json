@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/solana-gh/static/css/main.5d525def.chunk.css",
+    "main.js": "/solana-gh/static/js/main.bf002ca0.chunk.js",
+    "main.js.map": "/solana-gh/static/js/main.bf002ca0.chunk.js.map",
+    "runtime-main.js": "/solana-gh/static/js/runtime-main.8577590f.js",
+    "runtime-main.js.map": "/solana-gh/static/js/runtime-main.8577590f.js.map",
+    "static/js/2.037eadf2.chunk.js": "/solana-gh/static/js/2.037eadf2.chunk.js",
+    "static/js/2.037eadf2.chunk.js.map": "/solana-gh/static/js/2.037eadf2.chunk.js.map",
+    "static/js/3.9961f57f.chunk.js": "/solana-gh/static/js/3.9961f57f.chunk.js",
+    "static/js/3.9961f57f.chunk.js.map": "/solana-gh/static/js/3.9961f57f.chunk.js.map",
+    "index.html": "/solana-gh/index.html",
+    "static/css/main.5d525def.chunk.css.map": "/solana-gh/static/css/main.5d525def.chunk.css.map",
+    "static/js/2.037eadf2.chunk.js.LICENSE.txt": "/solana-gh/static/js/2.037eadf2.chunk.js.LICENSE.txt",
+    "static/media/sol_terminal.2a15cc02.jpeg": "/solana-gh/static/media/sol_terminal.2a15cc02.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8577590f.js",
+    "static/js/2.037eadf2.chunk.js",
+    "static/css/main.5d525def.chunk.css",
+    "static/js/main.bf002ca0.chunk.js"
+  ]
+}
